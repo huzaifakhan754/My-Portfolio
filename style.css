@@ -462,6 +462,7 @@ img {
 }
 
 .name-value {
+    font-size: 4.3vw;
     background: var(--gradient-1);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1160,8 +1161,7 @@ img {
     align-items: center;
     justify-content: center;
     font-size: 4rem;
-    color: var(--primary);
-    opacity: 0.3;
+    color: var(--primary);    
 }
 
 .project-overlay {
